@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn-blanco{
+  padding: 10px;
+  border: grey 1px solid;
+  border-radius: 15px;
+  background-color: #fff;
+}
+
+.btn-negro{
+  padding: 10px;
+  border: grey 1px solid;
+  border-radius: 15px;
+  background-color: #111;
+}
+
+.btn-violeta{
+  padding: 10px;
+  border: grey 1px solid;
+  border-radius: 15px;
+  background-color: rgb(52, 20, 132);
+}
+
+.btn-rojo{
+  padding: 10px;
+  border: grey 1px solid;
+  border-radius: 15px;
+  background-color: rgb(153, 8, 63);
+}
